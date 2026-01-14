@@ -1,0 +1,3 @@
+Write a short, original joke in {lang}.
+The joke MUST be inspired by the next news headline: "{headline}".
+Output the joke only.
