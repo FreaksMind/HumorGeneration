@@ -1,0 +1,3 @@
+Write a short, original joke in {lang}.
+The joke MUST include the following two words exactly as written: "{word1}" and "{word2}".
+Output only the joke. Do not explain it. Do not translate it.
